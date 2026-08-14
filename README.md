@@ -109,11 +109,11 @@ The dashboard helps identify:
 
 ### Dashboard Without Filters
 
-![Dashboard Without Filters](Images/Dashboard_with_Filters.png)
+![Dashboard Without Filters](Images/Dashboard_without_Filters.png)
 
 ### Dashboard With Filters
 
-![Dashboard With Filters](Images/Dashboard_without_Filters.png)
+![Dashboard With Filters](Images/Dashboard_with_Filters.png)
 
 ---
 
